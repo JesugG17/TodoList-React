@@ -1,0 +1,29 @@
+
+
+
+body {
+    padding: 50pxa;
+}
+
+p {
+    margin: 0;
+}
+
+form {
+    width: 90%;
+}
+
+.list-group-item {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.button {
+    width: 100% ;
+}
